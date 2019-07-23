@@ -23,5 +23,12 @@ This is the folder storing some fun stuff I did using NLP techniques and librari
 
 
 
+## [Notebook5](notebook/building_chatbot_NLU.ipynb): Building a chatbot using Rasu
+
+- Implementing smalltalk, [ELIZA](https://en.wikipedia.org/wiki/ELIZA) style
+- Use regex and ML to extract meaning from free form text
+- Build chatbot that can querry a db, plan a trip or order coffee.
+- Handling special cases.
+
 
 
